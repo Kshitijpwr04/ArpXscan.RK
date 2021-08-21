@@ -18,8 +18,12 @@
     pip install subprocess.run
 
 ## Generate Interface Name
+
+Open CMD type the following commands 
+
     scapy
     IFACES
+
 ## USAGE
 
     python arp.py
