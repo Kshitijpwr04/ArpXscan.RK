@@ -17,6 +17,9 @@
     pip install --pre scapy[basic]
     pip install subprocess.run
 
+## Generate Interface Name
+    scapy
+    IFACES
 ## USAGE
 
     python arp.py
